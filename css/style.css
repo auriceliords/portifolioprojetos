@@ -1,0 +1,115 @@
+body{
+   
+    background:url(/fotos/inf.jpg) no-repeat center center fixed;
+    font-family: 'Roboto', sans-serif;
+    background-size:cover;
+    overflow: hidden;
+}
+p{ 
+    font-size: 22px;
+    color: white;
+    border-radius: 20px;
+}
+#texto{ color: black;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+}
+
+
+section{
+    background: rgba(183, 230, 15, 0.219);
+    border-radius: 40px; /*  bordas arredonda*/
+    text-align: center; /*alinhamento do texto */
+    padding: 20px;    /*altura ou prenchimento das margen*/
+    width: 450px; /*cumprimento largura */
+    height: 350pxpx;
+    margin: auto;
+    box-shadow: 10px 10px  10px rgba(0, 0, 0, 0.541);
+    overflow: hidden;
+}
+input#casa{
+    padding: 10px;    /*altura ou prenchimento das margen*/
+    width: 150px; /*cumprimento largura */
+    margin: auto;
+    
+    
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+section{
+    background: rgba(183, 230, 15, 0.219);
+    border-radius: 40px; /*  bordas arredonda*/
+    text-align: center; /*alinhamento do texto */
+    padding: 20px;    /*altura ou prenchimento das margen*/
+    width: 480px; /*cumprimento largura */
+    margin: auto;
+    box-shadow: 10px 10px  10px rgba(0, 0, 0, 0.541)
+}
+
+input#teste
+{
+    font: normal 10pt Arial;
+    background: rgb(4, 104, 4);
+    border-radius: 10px;     /*  bordas arredonda*/
+    color: white;
+    width: 80pt;     /*cumprimento largura */
+    height: 40px;
+    line-height: 40px;
+    
+    cursor : pointer;
+
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+    
+
+}
+div#area{
+    color: rgb(26, 134, 235);
+    font: 20 pt;
+    
+    
+}
+footer{
+    color: rgb(43, 34, 34);
+    text-align: center;
+    font-style: italic;
+
+
+}
+#msg{
+    color: white;
+    font-size: 22px;
+}
+
+img#bola{
+    
+	width: 35px;
+    height: 35px;
+    
+    Animation: bola 1s infinite;
+}
+@keyframes bola{
+
+    0% {transform :translateX(0px);}
+    75% {transform :translateX(0px) translateY(40px);}
+    100% {transform :translateX(0px)translateY(0px);}
+
+}
+div#bola1{
+    text-align: center;
+
+}
+.texto{
+    border-radius: 20px; 
+    width: 5pt;  
+    padding: 10px; 
+  
+}
