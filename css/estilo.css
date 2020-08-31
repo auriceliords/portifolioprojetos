@@ -285,7 +285,7 @@ footer{
  @media screen and (max-width: 780px) {
   .menu-togger{ 
     box-shadow: 0 2px 5px rgba(1,0,0, .9);
-    margin: px;
+    font-weight: 700;
     display: block;
     height: 40px;
     width: 40px;
