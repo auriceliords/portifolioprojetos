@@ -356,8 +356,9 @@ footer{
       transform: translateX();
       width: 20pxpx;
       top: 50px;
+      font-size:25px;
       line-height: 20px;  
-      left: 70px;
+      left: 100px;
       box-sizing: border-box;
       float: left;
      
