@@ -249,13 +249,15 @@ div{ text-align: center; border-top: 10px;}
 }
 div .zap{
   
-  padding-left: 30px;
+  padding-left: 5px;
 }
 footer{
   margin-top: 20px;
 }
 .email{display: block;}
-
+.espaco{
+  margin-top: 50px;
+}
 
 .efeito{background:white; font-size: 400px;}
 
