@@ -27,6 +27,10 @@ body{ margin: 0;
   box-shadow: 0 2px 5px rgba(0,0,0, .2);
   background:  linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
+.men{
+  margin-top: 30px;
+ 
+}
 
 
 
@@ -163,7 +167,8 @@ h3{border-radius:10PX;
 h5{border-radius:20PX; width: 100%; font-weight: 700; color: white;font-size: 30px;}
 
 
-h2:hover{ box-shadow: 0 2px 5px rgba(0,0,0, .9)}
+h2:hover{ border-radius: 50px;
+  box-shadow: 0 2px 5px rgba(0,0,0, .9)}
 
 
 .bot:hover{
