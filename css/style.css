@@ -1,6 +1,6 @@
 body{
    
-    background:url(/fotos/inf.jpg) no-repeat center center fixed;
+    background:url(../fotos/inf.jpg) no-repeat center center fixed;
     font-family: 'Roboto', sans-serif;
     background-size:cover;
     overflow: hidden;
