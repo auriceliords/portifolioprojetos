@@ -42,27 +42,27 @@ function veri() {
         case 5:
             msg.innerHTML =  ' AIORA DE LEÃO '
             img.src = '/fotos/leao.png'
-             document.body.style.backgroundImage = "url('../casas/leo.jpg')";
+             document.body.style.backgroundImage = "url('./casas/leo.jpg')";
         break;
 
         case 6:
             msg.innerHTML =  ' DHAKA DE VIRGEN '
             img.src = '/fotos/virgen.png'
-             document.body.style.backgroundImage = "url('../casas/virg.jpg')";
+             document.body.style.backgroundImage = "url('./casas/virg.jpg')";
         
         break;
 
         case 7:
             msg.innerHTML =  'DOHKO DE LIBRA '
             img.src = '/fotos/libra.png'
-             document.body.style.backgroundImage = "url('../casas/lib.jpg')";
+             document.body.style.backgroundImage = "url('./casas/lib.jpg')";
        
         break;
 
         case 8:
             msg.innerHTML =  ' MILO DE ESCPORPIÃO'
             img.src = '/fotos/escopiao.png'
-             document.body.style.backgroundImage = "url('../casas/esc.jpg')";
+             document.body.style.backgroundImage = "url('./casas/esc.jpg')";
            
         
         break;
@@ -78,21 +78,21 @@ function veri() {
         case 10:
             msg.innerHTML =  'SHURA DE CAPRICORNIO '
             img.src = '/fotos/capricornio.png'
-             document.body.style.backgroundImage = "url('../casas/capric.jpg')";
+             document.body.style.backgroundImage = "url('./casas/capric.jpg')";
           
         break;
         
         case 11:
             msg.innerHTML =  'CAMUS DE AQUARIO '
             img.src = '/fotos/aquario.png'
-             document.body.style.backgroundImage = "url('../casas/aqu.jpg')";
+             document.body.style.backgroundImage = "url('./casas/aqu.jpg')";
         
         break;
 
         case 12:
             msg.innerHTML =  'AFRODITE DE PEIXES '
             img.src = '/fotos/peixe.png'
-             document.body.style.backgroundImage = "url('../casas/pei.jpg')";
+             document.body.style.backgroundImage = "url('./casas/pei.jpg')";
         
         break;
 
