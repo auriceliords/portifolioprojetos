@@ -13,7 +13,7 @@ function veri() {
             msg.innerHTML = 'MÚ DE ARIES '
             img.src = '/fotos/aries.png'
             
-            document.body.style.backgroundImage = "url('../casas/ar.jpg')";
+            document.body.style.backgroundImage = "url('./casas/ar.jpg')";
         
             
         break;
@@ -21,14 +21,14 @@ function veri() {
         case 2:
             msg.innerHTML = 'ALDEBARAM DE TOURO '
             img.src = '/fotos/touro.png'
-             document.body.style.backgroundImage = "url('../casas/to.jpg')";
+             document.body.style.backgroundImage = "url('./casas/to.jpg')";
         
         break;
         
         case 3:
             msg.innerHTML = 'SAGA DE GÊMIOS'
             img.src = '/fotos/gemios.png'
-             document.body.style.backgroundImage = "url('../casas/ge.jpg')";
+             document.body.style.backgroundImage = "url('./casas/ge.jpg')";
             
     
         break;
@@ -36,7 +36,7 @@ function veri() {
         case 4:
             msg.innerHTML = 'MASCARA DA MORTE , CÂNCER'
             img.src = '/fotos/cancer.png'
-             document.body.style.backgroundImage = "url('../casas/canc.jpg')";
+             document.body.style.backgroundImage = "url('./casas/canc.jpg')";
         break;
 
         case 5:
