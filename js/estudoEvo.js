@@ -11,7 +11,7 @@ function veri() {
         case 1:
            
             msg.innerHTML = 'MÚ DE ARIES '
-            img.src = .'/fotos/aries.png'
+            img.src = './fotos/aries.png'
             
             document.body.style.backgroundImage = "url('./casas/ar.jpg')";
         
@@ -21,7 +21,7 @@ function veri() {
         case 2:
             msg.innerHTML = 'ALDEBARAM DE TOURO '
 <<<<<<< HEAD
-            img.src = .'/fotos/touro.png'
+            img.src = './fotos/touro.png'
              document.body.style.backgroundImage = "url('../casas/to.jpg')";
 =======
             img.src = '/fotos/touro.png'
@@ -33,7 +33,7 @@ function veri() {
         case 3:
             msg.innerHTML = 'SAGA DE GÊMIOS'
 <<<<<<< HEAD
-            img.src = .'/fotos/gemios.png'
+            img.src = './fotos/gemios.png'
              document.body.style.backgroundImage = "url('../casas/ge.jpg')";
 =======
             img.src = '/fotos/gemios.png'
@@ -46,7 +46,7 @@ function veri() {
         case 4:
             msg.innerHTML = 'MASCARA DA MORTE , CÂNCER'
 <<<<<<< HEAD
-            img.src = .'/fotos/cancer.png'
+            img.src = './fotos/cancer.png'
              document.body.style.backgroundImage = "url('../casas/canc.jpg')";
 =======
             img.src = '/fotos/cancer.png'
@@ -57,7 +57,7 @@ function veri() {
         case 5:
             msg.innerHTML =  ' AIORA DE LEÃO '
 <<<<<<< HEAD
-            img.src = .'/fotos/leao.png'
+            img.src = './fotos/leao.png'
              document.body.style.backgroundImage = "url('../casas/leo.jpg')";
 =======
             img.src = '/fotos/leao.png'
@@ -68,7 +68,7 @@ function veri() {
         case 6:
             msg.innerHTML =  ' DHAKA DE VIRGEN '
 <<<<<<< HEAD
-            img.src = .'/fotos/virgen.png'
+            img.src = './fotos/virgen.png'
              document.body.style.backgroundImage = "url('../casas/virg.jpg')";
 =======
             img.src = '/fotos/virgen.png'
@@ -80,7 +80,7 @@ function veri() {
         case 7:
             msg.innerHTML =  'DOHKO DE LIBRA '
 <<<<<<< HEAD
-            img.src = .'/fotos/libra.png'
+            img.src = './fotos/libra.png'
              document.body.style.backgroundImage = "url('../casas/lib.jpg')";
 =======
             img.src = '/fotos/libra.png'
@@ -92,7 +92,7 @@ function veri() {
         case 8:
             msg.innerHTML =  ' MILO DE ESCPORPIÃO'
 <<<<<<< HEAD
-            img.src = .'/fotos/escopiao.png'
+            img.src = './fotos/escopiao.png'
              document.body.style.backgroundImage = "url('../casas/esc.jpg')";
 =======
             img.src = '/fotos/escopiao.png'
@@ -104,7 +104,7 @@ function veri() {
 
         case 9:
             msg.innerHTML =  'AIOROS DE SARGITÁRIO'
-            img.src = .'/fotos/sagitario.png'
+            img.src = './fotos/sagitario.png'
              document.body.style.backgroundImage = "url('./casas/sagit.jpg')";
                
         
@@ -113,7 +113,7 @@ function veri() {
         case 10:
             msg.innerHTML =  'SHURA DE CAPRICORNIO '
 <<<<<<< HEAD
-            img.src = .'/fotos/capricornio.png'
+            img.src = './fotos/capricornio.png'
              document.body.style.backgroundImage = "url('../casas/capric.jpg')";
 =======
             img.src = '/fotos/capricornio.png'
@@ -125,7 +125,7 @@ function veri() {
         case 11:
             msg.innerHTML =  'CAMUS DE AQUARIO '
 <<<<<<< HEAD
-            img.src = .'/fotos/aquario.png'
+            img.src = './fotos/aquario.png'
              document.body.style.backgroundImage = "url('../casas/aqu.jpg')";
 =======
             img.src = '/fotos/aquario.png'
@@ -137,7 +137,7 @@ function veri() {
         case 12:
             msg.innerHTML =  'AFRODITE DE PEIXES '
 <<<<<<< HEAD
-            img.src = .'/fotos/peixe.png'
+            img.src = './fotos/peixe.png'
              document.body.style.backgroundImage = "url('../casas/pei.jpg')";
 =======
             img.src = '/fotos/peixe.png'
@@ -149,7 +149,7 @@ function veri() {
 
         default:
             msg.innerHTML ='ESCOLHA de 1 a 12 USE PARA SE DIREGIR A AS ../CASAS DO SANTUÁRIO'
-            img.src = .'/fotos/auri.png'
+            img.src = './fotos/auri.png'
             
            
         }
